@@ -1,0 +1,88 @@
+/*Header*/
+.bg-image{
+	background-image: url(../img/header.jpg);
+	height: 42em;
+	background-size: cover;
+	background-position: center;
+}
+.text-white{
+	color: #fff;
+}
+.navbar a{
+	color: white !important;
+}
+.naranja{
+	border: 0.2em solid #ff3300 !important;
+}
+
+
+/*Boton*/
+button{
+	position: absolute;
+}
+
+/* Imágenes con cinta */
+#foto1{
+	background-image: url(../img/1.jpg);
+
+}
+#foto2{
+	background-image: url(../img/2.jpg);
+	
+}
+#foto3{
+	background-image: url(../img/3.jpg);
+	
+}
+#foto4{
+	background-image: url(../img/4.jpg);
+	
+}
+#foto5{
+	background-image: url(../img/5.jpg);
+	
+}
+#foto6{
+	background-image: url(../img/6.jpg);
+	
+}
+/*github*/
+.bg-cl{
+	background-color: gray;
+	height: 20em;
+
+}
+/*Utilidades*/
+.mg-l{
+	margin-left: 44%;
+}
+.mg-t{
+	margin-top: 5%;
+}
+.mg-b{
+	margin-bottom : 5%;
+}
+.pd-t{
+	padding-top: 15% !important;
+}
+.pd-5{
+	padding: 5%;
+}
+.clr{
+	background-color: #ff3300;
+}
+.mediano .clr{
+	opacity: 0;
+}
+.clr:hover{
+	opacity: 0.9;
+}
+.mediano{
+	height: 25em;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+hr{
+	width: 10%;
+}
